@@ -1,1 +1,1 @@
-worker: python3.5 red.py
+worker: python3.5 launcher.py
